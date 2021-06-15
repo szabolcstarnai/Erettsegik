@@ -1,0 +1,13 @@
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.exe
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.deps.json
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.json
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.dev.json
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.dll
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.pdb
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.csproj.AssemblyReference.cache
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfoInputs.cache
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfo.cs
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.dll
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.pdb
+C:\Users\User\git\Erettsegik\2005-tavasz\C#\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.genruntimeconfig.cache
