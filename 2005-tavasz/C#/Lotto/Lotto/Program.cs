@@ -42,7 +42,7 @@ namespace Lotto
 
         void Kereses(int het)
         {
-            Console.Write($"Az {het}. hét számai: ");
+            Console.Write($"A(z) {het}. hét számai: ");
             for (int i = 0; i < 5; i++)
                 Console.Write($"{adatok[het - 1, i]} "); //paraméterként kapott `het`. sor [1..5] adatai (tömbök 0-tól indexeltek, ezért 1-et le kell vonni)
             Console.WriteLine();
