@@ -131,7 +131,7 @@ namespace Lotto
                                                                                   //alternatívan: x => Console.Write($"{x} ")
             Console.WriteLine();
             //3. feladat
-            p.Beolvasas("../../../../../../Forrasok/lottosz.dat");
+            p.Beolvasas("../../../../../../!Forrasok/lottosz.dat");
             Console.Write("Adja meg a keresett hetet: ");
             int be = int.Parse(Console.ReadLine()); //számként értelmezzük a bementeről érkező adatot és tároljuk
             p.Kereses(be);
