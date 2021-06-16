@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto\\Lotto.csproj": {}
+    "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto\\Lotto.csproj": {
+    "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto\\Lotto.csproj",
+        "projectUniqueName": "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto.csproj",
         "projectName": "Lotto",
-        "projectPath": "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto\\Lotto.csproj",
+        "projectPath": "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\Lotto\\obj\\",
+        "outputPath": "C:\\Users\\User\\git\\Erettsegik\\2005-tavasz\\C#\\Lotto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
