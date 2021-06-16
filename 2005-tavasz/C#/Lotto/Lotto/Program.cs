@@ -130,7 +130,7 @@ namespace Lotto
                                                                                   //"`x` elemhez hozzárendeljük a blokkot amely kiírja `x`-et és mögé ír egy szóközt"
                                                                                   //alternatívan: x => Console.Write($"{x} ")
             Console.WriteLine();
-            //3. feladat
+            //3., 4. feladat
             p.Beolvasas("../../../../../../!Forrasok/lottosz.dat");
             Console.Write("Adja meg a keresett hetet: ");
             int be = int.Parse(Console.ReadLine()); //számként értelmezzük a bementeről érkező adatot és tároljuk

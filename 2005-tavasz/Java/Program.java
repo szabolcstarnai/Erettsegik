@@ -117,7 +117,7 @@ public class Program {
                                                                                      //`eheti` tomb minden elemet kiirjuk, majd moge egy szokozt
                                                                                      //"`x` elemhez hozzarendeljuk a blokkot amely kiirja `x`-et es moge ir egy szokozt"
 		System.out.println();
-		//3. feladat
+		//3., 4. feladat
         p.beolvasas("../!Forrasok/lottosz.dat");
 		System.out.print("Adja meg a keresett hetet: ");
         int be = Integer.parseInt(System.console().readLine()); //szamkent ertelmezzuk a bementerol erkezo adatot es taroljuk
